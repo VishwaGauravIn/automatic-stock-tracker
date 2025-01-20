@@ -26,6 +26,20 @@ jobs:
       - name: Run stock update script
         run: node daily_stock_update.js
 
+      - name: Commit and push changes to repo
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          
+          # Add updated files to the staging area
+          git add latest.json diff.json archive/
+
+          # Commit the changes
+          git commit -m "Automated update: Stock data and diff changes"
+
+          # Push changes to the repository
+          git push origin HEAD:main
+
       - name: Archive data
         uses: actions/upload-artifact@v3
         with:
