@@ -25,7 +25,7 @@ jobs:
         run: npm install
 
       - name: Run stock update script
-        run: node daily_stock_update.js
+        run: node stockTracker.js
 
       - name: Commit and push changes to repo
         run: |
