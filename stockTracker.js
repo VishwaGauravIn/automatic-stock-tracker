@@ -6,13 +6,13 @@ import { users } from "./users.js";
 
 // Telegram Bot Token
 const BOT_TOKEN = process.env.BOT_TOKEN; // Telegram Bot Token
+const CHANNEL_ID = "@YourDailyStockTracker"; // Telegram Channel ID
 
 // URLs and Paths
 const SCREEN_URL = process.env.SCREEN_URL; // URL of the Screener Stock URL (should be public)
 const ARCHIVE_DIR = "./archive";
 const LATEST_FILE = "./latest.json";
 const DIFF_FILE = "./diff.json";
-console.log(SCREEN_URL)
 
 // Parse HTML Table and Extract Data
 function parseTable(html) {
@@ -39,13 +39,20 @@ function loadJSON(filePath) {
   return [];
 }
 
-async function sendTelegramMessageToAll(botToken, message) {
+async function sendTelegramMessageToAll(botToken, message, channelId) {
   const bot = new TelegramBot(botToken);
-  for (const user of users) {
-    const chatId = (await bot.getUpdates()).find(
-      (u) => u.message.from.username === user.slice(1)
-    ).message.chat.id;
-    bot.sendMessage(chatId, message);
+
+  // commented out to avoid sending messages to all users, we will use channel instead
+  // for (const user of users) {
+  //   const chatId = (await bot.getUpdates()).find(
+  //     (u) => u.message.from.username === user.slice(1)
+  //   ).message.chat.id;
+  //   bot.sendMessage(chatId, message);
+  // }
+
+  // Send message to the channel
+  if (channelId) {
+    bot.sendMessage(channelId, message);
   }
 }
 
@@ -86,7 +93,7 @@ async function main() {
       .join("\n")}\n\nRemoved Stocks:\n${removed
       .map((r) => `➖ ${r.name} @ ₹${r.price}`)
       .join("\n")}`;
-    await sendTelegramMessageToAll(BOT_TOKEN, message);
+    await sendTelegramMessageToAll(BOT_TOKEN, message, CHANNEL_ID);
   } else {
     console.log("No changes detected. No update needed.");
   }
