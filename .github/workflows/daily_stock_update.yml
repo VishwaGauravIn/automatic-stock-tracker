@@ -1,0 +1,33 @@
+name: Daily Stock Update
+
+on:
+  schedule:
+    - cron: "46 3 * * *" # 9:16 AM IST (3:46 AM UTC)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+      TELEGRAM_USERNAME: ${{ secrets.TELEGRAM_USERNAME }}
+      SCREEN_URL: ${{ secrets.SCREEN_URL }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run stock update script
+        run: node daily_stock_update.js
+
+      - name: Archive data
+        uses: actions/upload-artifact@v3
+        with:
+          name: stock-data-archive
+          path: ./archive
