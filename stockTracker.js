@@ -75,6 +75,11 @@ async function main() {
   );
   const diff = { added, removed };
 
+  // Format the full list of all stocks
+  const allStocks = currentData
+    .map((stock, i) => `${i + 1}. ${stock.name}`)
+    .join("\n");
+
   if (added.length > 0 || removed.length > 0) {
     console.log("Saving differences and updating archive...");
     saveJSON(DIFF_FILE, diff);
@@ -89,10 +94,12 @@ async function main() {
 
     console.log("Sending Telegram notification...");
     const message = `Stock Update: (powered by itsvg.in)\n\nAdded Stocks:\n${added
-      .map((a) => `➕ ${a.name} @ ₹${a.price}`)
+      .map((a) => `➕ ${a.name}`)
       .join("\n")}\n\nRemoved Stocks:\n${removed
-      .map((r) => `➖ ${r.name} @ ₹${r.price}`)
-      .join("\n")}`;
+      .map((r) => `➖ ${r.name}`)
+      .join("\n")}
+      \n📃 Full Stock List:\n\n${allStocks}
+      `;
     await sendTelegramMessageToAll(BOT_TOKEN, message, CHANNEL_ID);
   } else {
     console.log("No changes detected. No update needed.");
