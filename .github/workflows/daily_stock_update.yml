@@ -3,6 +3,7 @@ name: Daily Stock Update
 on:
   schedule:
     - cron: "46 3 * * *" # 9:16 AM IST (3:46 AM UTC)
+  workflow_dispatch: 
 
 jobs:
   build:
