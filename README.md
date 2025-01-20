@@ -3,7 +3,11 @@
 This project fetches stock data from the my **SPECIAL** screen (list of stocks) on Screener.in (you can replace it with anything), and sends you a telegram notification daily based on which stock was added to the list or removed.
 
 # How to use? 
-- Step 1: Message our [Telegram Bot](https://t.me/YourDailyStockTrackerBot) (https://t.me/YourDailyStockTrackerBot) `/start`
+
+#### Just get yourself added in [Telegram Channel](https://t.me/YourDailyStockTracker) (https://t.me/YourDailyStockTracker)
+You will receive notification everyday @9:16AM (only if there is any change in the list)
+
+<!-- - Step 1: Message our [Telegram Bot](https://t.me/YourDailyStockTrackerBot) (https://t.me/YourDailyStockTrackerBot) `/start`
 
 ![image](https://github.com/user-attachments/assets/68c00f39-6836-4d85-b844-0f560d274a40)
 
@@ -11,6 +15,7 @@ This project fetches stock data from the my **SPECIAL** screen (list of stocks) 
 
 > [!IMPORTANT]  
 > If you don't know how to do this all, just dm me on Twitter/X : [@VishwaGauravIn](https://x.com/vishwagauravin) or [LinkedIn](https://www.linkedin.com/in/vishwagauravin/) or Telegram @VishwaGaurav
+-->
 
 ## Features
 
