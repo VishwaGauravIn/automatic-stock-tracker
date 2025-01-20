@@ -1,0 +1,96 @@
+import fs from "fs";
+import path from "path";
+import fetch from "node-fetch";
+import TelegramBot from "node-telegram-bot-api";
+
+// Telegram Bot Token and Username
+const BOT_TOKEN = process.env.BOT_TOKEN; // Telegram Bot Token
+const TELEGRAM_USERNAME = process.env.TELEGRAM_USERNAME; // Telegram Username
+
+// URLs and Paths
+const SCREEN_URL = process.env.SCREEN_URL; // URL of the Screener Stock URL (should be public)
+const ARCHIVE_DIR = "./archive";
+const LATEST_FILE = "./latest.json";
+const DIFF_FILE = "./diff.json";
+console.log(SCREEN_URL)
+
+// Parse HTML Table and Extract Data
+function parseTable(html) {
+  const regex =
+    /<tr[^>]*>\s*<td[^>]*>\d+\.<\/td>\s*<td[^>]*>\s*<a[^>]*>([^<]+)<\/a>\s*<\/td>\s*<td[^>]*>([^<]+)<\/td>/g;
+  const stocks = [];
+  let match;
+  while ((match = regex.exec(html)) !== null) {
+    stocks.push({ name: match[1], price: parseFloat(match[2]) });
+  }
+  return stocks;
+}
+
+// Save JSON Data to File
+function saveJSON(filePath, data) {
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+}
+
+// Load JSON Data from File
+function loadJSON(filePath) {
+  if (fs.existsSync(filePath)) {
+    return JSON.parse(fs.readFileSync(filePath));
+  }
+  return [];
+}
+
+// Send Telegram Message
+async function sendTelegramMessage(botToken, username, message) {
+  const bot = new TelegramBot(botToken);
+  const chatId = (await bot.getUpdates()).find(
+    (u) => u.message.from.username === username.slice(1)
+  ).message.chat.id;
+  bot.sendMessage(chatId, message);
+}
+
+// Main Function
+async function main() {
+  console.log("Fetching stock data...");
+  const response = await fetch(SCREEN_URL);
+  const html = await response.text();
+  const currentData = parseTable(html);
+
+  console.log("Loading previous data...");
+  const previousData = loadJSON(LATEST_FILE);
+
+  console.log("Calculating differences...");
+  const added = currentData.filter(
+    (item) => !previousData.some((p) => p.name === item.name)
+  );
+  const removed = previousData.filter(
+    (item) => !currentData.some((c) => c.name === item.name)
+  );
+  const diff = { added, removed };
+
+  if (added.length > 0 || removed.length > 0) {
+    console.log("Saving differences and updating archive...");
+    saveJSON(DIFF_FILE, diff);
+
+    const timestamp = new Date().toISOString().replace(/[:.]/g, "-");
+    const archivePath = path.join(ARCHIVE_DIR, `diff-${timestamp}.json`);
+    if (!fs.existsSync(ARCHIVE_DIR)) fs.mkdirSync(ARCHIVE_DIR);
+    saveJSON(archivePath, diff);
+
+    console.log("Saving latest data...");
+    saveJSON(LATEST_FILE, currentData);
+
+    console.log("Sending Telegram notification...");
+    const message = `Stock Update: (powered by itsvg.in)\n\nAdded Stocks:\n${added
+      .map((a) => `➕ ${a.name} @ ₹${a.price}`)
+      .join("\n")}\n\nRemoved Stocks:\n${removed
+      .map((r) => `➖ ${r.name} @ ₹${r.price}`)
+      .join("\n")}`;
+    await sendTelegramMessage(BOT_TOKEN, TELEGRAM_USERNAME, message);
+  } else {
+    console.log("No changes detected. No update needed.");
+  }
+
+  console.log("All done!");
+}
+
+main().catch(console.error);
