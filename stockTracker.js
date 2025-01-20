@@ -2,10 +2,10 @@ import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
 import TelegramBot from "node-telegram-bot-api";
+import { users } from "./users.js";
 
-// Telegram Bot Token and Username
+// Telegram Bot Token
 const BOT_TOKEN = process.env.BOT_TOKEN; // Telegram Bot Token
-const TELEGRAM_USERNAME = process.env.TELEGRAM_USERNAME; // Telegram Username
 
 // URLs and Paths
 const SCREEN_URL = process.env.SCREEN_URL; // URL of the Screener Stock URL (should be public)
@@ -39,13 +39,14 @@ function loadJSON(filePath) {
   return [];
 }
 
-// Send Telegram Message
-async function sendTelegramMessage(botToken, username, message) {
+async function sendTelegramMessageToAll(botToken, message) {
   const bot = new TelegramBot(botToken);
-  const chatId = (await bot.getUpdates()).find(
-    (u) => u.message.from.username === username.slice(1)
-  ).message.chat.id;
-  bot.sendMessage(chatId, message);
+  for (const user of users) {
+    const chatId = (await bot.getUpdates()).find(
+      (u) => u.message.from.username === user.slice(1)
+    ).message.chat.id;
+    bot.sendMessage(chatId, message);
+  }
 }
 
 // Main Function
@@ -85,7 +86,7 @@ async function main() {
       .join("\n")}\n\nRemoved Stocks:\n${removed
       .map((r) => `➖ ${r.name} @ ₹${r.price}`)
       .join("\n")}`;
-    await sendTelegramMessage(BOT_TOKEN, TELEGRAM_USERNAME, message);
+    await sendTelegramMessageToAll(BOT_TOKEN, message);
   } else {
     console.log("No changes detected. No update needed.");
   }
