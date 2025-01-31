@@ -1,34 +1,34 @@
 [
   {
     "name": "Jyoti Resins",
-    "price": 1236
+    "price": 1255
   },
   {
     "name": "Monarch Networth",
-    "price": 429.95
-  },
-  {
-    "name": "Panorama Studios",
-    "price": 193.75
-  },
-  {
-    "name": "Dynacons Sys.",
-    "price": 1216.75
+    "price": 419.9
   },
   {
     "name": "Action Const.Eq.",
-    "price": 1308
+    "price": 1271.05
+  },
+  {
+    "name": "KPIT Technologi.",
+    "price": 1434.35
   },
   {
     "name": "Solar Industries",
-    "price": 10000
+    "price": 10200
   },
   {
     "name": "Polycab India",
-    "price": 5894.8
+    "price": 5791.2
+  },
+  {
+    "name": "Godawari Power",
+    "price": 177.9
   },
   {
     "name": "Dixon Technolog.",
-    "price": 14599.85
+    "price": 14794.2
   }
 ]
