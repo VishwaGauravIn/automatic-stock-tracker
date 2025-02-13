@@ -1,42 +1,34 @@
 [
   {
-    "name": "Lloyds Metals",
-    "price": 1101
-  },
-  {
     "name": "Monarch Networth",
-    "price": 371.05
+    "price": 378.05
   },
   {
     "name": "Panorama Studios",
-    "price": 192
+    "price": 189.95
   },
   {
     "name": "Action Const.Eq.",
-    "price": 1207.8
+    "price": 1200.05
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2299.75
-  },
-  {
-    "name": "Polycab India",
-    "price": 5510.95
-  },
-  {
-    "name": "Godawari Power",
-    "price": 179.3
+    "price": 2315.35
   },
   {
     "name": "Persistent Sys",
-    "price": 5828.4
+    "price": 5706.8
   },
   {
     "name": "Dixon Technolog.",
-    "price": 14510.05
+    "price": 14775.05
   },
   {
     "name": "Shree Ganesh Rem",
-    "price": 784.05
+    "price": 816
+  },
+  {
+    "name": "Aditya Vision",
+    "price": 414.6
   }
 ]
