@@ -1,34 +1,26 @@
 [
   {
     "name": "Monarch Networth",
-    "price": 378.05
-  },
-  {
-    "name": "Panorama Studios",
-    "price": 189.95
+    "price": 375
   },
   {
     "name": "Action Const.Eq.",
-    "price": 1200.05
+    "price": 1235.95
   },
   {
-    "name": "RPG LifeScience.",
-    "price": 2315.35
+    "name": "Godawari Power",
+    "price": 178.35
   },
   {
     "name": "Persistent Sys",
-    "price": 5706.8
+    "price": 5749.95
   },
   {
     "name": "Dixon Technolog.",
-    "price": 14775.05
+    "price": 14755
   },
   {
     "name": "Shree Ganesh Rem",
-    "price": 816
-  },
-  {
-    "name": "Aditya Vision",
-    "price": 414.6
+    "price": 788.8
   }
 ]
