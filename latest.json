@@ -1,26 +1,26 @@
 [
   {
     "name": "Lloyds Metals",
-    "price": 1135
+    "price": 1131.05
+  },
+  {
+    "name": "Monarch Networth",
+    "price": 358.6
+  },
+  {
+    "name": "Action Const.Eq.",
+    "price": 1187.95
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2241.5
+    "price": 2272.3
   },
   {
     "name": "Persistent Sys",
-    "price": 5550
+    "price": 5590
   },
   {
     "name": "Dixon Technolog.",
-    "price": 13730.5
-  },
-  {
-    "name": "Shree Ganesh Rem",
-    "price": 790
-  },
-  {
-    "name": "Aditya Vision",
-    "price": 412
+    "price": 14249.95
   }
 ]
