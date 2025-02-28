@@ -1,30 +1,22 @@
 [
   {
-    "name": "Lloyds Metals",
-    "price": 1128.1
-  },
-  {
-    "name": "Monarch Networth",
-    "price": 373
-  },
-  {
     "name": "Panorama Studios",
-    "price": 199
+    "price": 214.9
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2345.55
+    "price": 2180.05
   },
   {
     "name": "Persistent Sys",
-    "price": 5504.1
+    "price": 5354.05
   },
   {
     "name": "Dixon Technolog.",
-    "price": 14298.95
+    "price": 13700
   },
   {
     "name": "Aditya Vision",
-    "price": 415.05
+    "price": 412
   }
 ]
