@@ -1,22 +1,18 @@
 [
   {
-    "name": "Lloyds Metals",
-    "price": 1049.95
-  },
-  {
     "name": "Panorama Studios",
-    "price": 196.85
+    "price": 208.5
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2228.4
+    "price": 2138.45
   },
   {
     "name": "Persistent Sys",
-    "price": 5447.45
+    "price": 5278.8
   },
   {
     "name": "Dixon Technolog.",
-    "price": 14700
+    "price": 13911.25
   }
 ]
