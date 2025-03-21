@@ -1,18 +1,22 @@
 [
   {
     "name": "Panorama Studios",
-    "price": 195
+    "price": 207.5
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2217.5
+    "price": 2336.9
   },
   {
     "name": "Persistent Sys",
-    "price": 5281.5
+    "price": 5083.55
   },
   {
     "name": "Dixon Technolog.",
-    "price": 13497.6
+    "price": 13955.1
+  },
+  {
+    "name": "Aditya Vision",
+    "price": 433.45
   }
 ]
