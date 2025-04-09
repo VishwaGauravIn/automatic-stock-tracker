@@ -1,10 +1,14 @@
 [
   {
+    "name": "Panorama Studios",
+    "price": 187
+  },
+  {
     "name": "Solar Industries",
-    "price": 10946.95
+    "price": 10968
   },
   {
     "name": "Aditya Vision",
-    "price": 419.3
+    "price": 420.8
   }
 ]
