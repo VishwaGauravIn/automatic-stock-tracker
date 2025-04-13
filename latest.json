@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "Solar Industries",
+    "price": 11317.05
+  },
+  {
+    "name": "Dixon Technolog.",
+    "price": 14301.9
+  },
+  {
+    "name": "Aditya Vision",
+    "price": 427.85
+  }
+]
