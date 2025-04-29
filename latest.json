@@ -1,22 +1,22 @@
 [
   {
     "name": "Panorama Studios",
-    "price": 197.95
+    "price": 197.2
+  },
+  {
+    "name": "Tanfac Inds.",
+    "price": 2989
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2206.15
+    "price": 2317.35
   },
   {
     "name": "Godawari Power",
-    "price": 195.15
+    "price": 193.7
   },
   {
     "name": "Dixon Technolog.",
-    "price": 16594.2
-  },
-  {
-    "name": "Aditya Vision",
-    "price": 418.55
+    "price": 16765
   }
 ]
