@@ -1,22 +1,26 @@
 [
   {
     "name": "Panorama Studios",
-    "price": 191.5
+    "price": 190.95
   },
   {
     "name": "Tanfac Inds.",
-    "price": 2961.95
+    "price": 3125
+  },
+  {
+    "name": "RPG LifeScience.",
+    "price": 2090
   },
   {
     "name": "Persistent Sys",
-    "price": 5430.5
+    "price": 5627.55
   },
   {
     "name": "Sika Interplant",
-    "price": 729
+    "price": 738.05
   },
   {
     "name": "Dixon Technolog.",
-    "price": 15262.95
+    "price": 15988.1
   }
 ]
