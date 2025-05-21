@@ -1,34 +1,42 @@
 [
   {
     "name": "Shilchar Tech.",
-    "price": 6925.25
+    "price": 7174
   },
   {
     "name": "Panorama Studios",
-    "price": 191.05
+    "price": 195.1
   },
   {
     "name": "Tanfac Inds.",
-    "price": 3222.3
-  },
-  {
-    "name": "D.P. Abhushan",
-    "price": 1554
-  },
-  {
-    "name": "RPG LifeScience.",
-    "price": 2170.2
-  },
-  {
-    "name": "Persistent Sys",
-    "price": 5699
-  },
-  {
-    "name": "Godawari Power",
-    "price": 201.71
+    "price": 3171
   },
   {
     "name": "Dixon Technolog.",
-    "price": 16660
+    "price": 15538.2
+  },
+  {
+    "name": "Solar Industries",
+    "price": 14000
+  },
+  {
+    "name": "D.P. Abhushan",
+    "price": 1509.15
+  },
+  {
+    "name": "Banco Products",
+    "price": 526.9
+  },
+  {
+    "name": "RPG LifeScience.",
+    "price": 2154.85
+  },
+  {
+    "name": "Persistent Sys",
+    "price": 5612.75
+  },
+  {
+    "name": "Godawari Power",
+    "price": 196.7
   }
 ]
