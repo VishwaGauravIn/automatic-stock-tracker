@@ -1,38 +1,30 @@
 [
   {
-    "name": "Shilchar Tech.",
-    "price": 7496.5
-  },
-  {
-    "name": "Panorama Studios",
-    "price": 207.8
-  },
-  {
     "name": "Dixon Technolog.",
-    "price": 14692
+    "price": 14669
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1519.6
+    "price": 1492
   },
   {
     "name": "Banco Products",
-    "price": 570.55
+    "price": 561
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2181.2
+    "price": 2168.6
   },
   {
     "name": "Persistent Sys",
-    "price": 5638
+    "price": 5584.9
   },
   {
     "name": "Master Trust",
-    "price": 155.32
+    "price": 156.7
   },
   {
     "name": "Godawari Power",
-    "price": 190.48
+    "price": 195.1
   }
 ]
