@@ -1,30 +1,38 @@
 [
   {
     "name": "Dixon Technolog.",
-    "price": 14669
+    "price": 14820
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1492
+    "price": 1502.3
   },
   {
     "name": "Banco Products",
-    "price": 561
+    "price": 571.7
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2168.6
+    "price": 2187.9
+  },
+  {
+    "name": "BLS Internat.",
+    "price": 411.35
   },
   {
     "name": "Persistent Sys",
-    "price": 5584.9
+    "price": 5504.2
   },
   {
     "name": "Master Trust",
-    "price": 156.7
+    "price": 158.6
+  },
+  {
+    "name": "Newgen Software",
+    "price": 1309.35
   },
   {
     "name": "Godawari Power",
-    "price": 195.1
+    "price": 191.3
   }
 ]
