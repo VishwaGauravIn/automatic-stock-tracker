@@ -1,34 +1,38 @@
 [
   {
+    "name": "Shakti Pumps",
+    "price": 985.2
+  },
+  {
     "name": "Dixon Technolog.",
-    "price": 14682.5
+    "price": 14869
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1500.05
+    "price": 1515
   },
   {
     "name": "Banco Products",
-    "price": 548.6
+    "price": 577.2
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2165
+    "price": 2152.6
   },
   {
     "name": "BLS Internat.",
-    "price": 407.85
+    "price": 395.75
   },
   {
     "name": "Persistent Sys",
-    "price": 5587.2
+    "price": 5764
   },
   {
     "name": "Master Trust",
-    "price": 151.85
+    "price": 156.55
   },
   {
     "name": "Godawari Power",
-    "price": 190.1
+    "price": 188.75
   }
 ]
