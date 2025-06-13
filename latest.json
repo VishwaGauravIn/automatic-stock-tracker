@@ -1,38 +1,46 @@
 [
   {
+    "name": "Tips Music",
+    "price": 665.05
+  },
+  {
     "name": "Shilchar Tech.",
-    "price": 5453
+    "price": 5302
   },
   {
     "name": "Dixon Technolog.",
-    "price": 14827.25
+    "price": 14360.7
+  },
+  {
+    "name": "Indrapr.Medical",
+    "price": 404.95
   },
   {
     "name": "Gokul Agro",
-    "price": 282.35
+    "price": 276
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1477.95
+    "price": 1441.8
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2219.7
+    "price": 2217.05
   },
   {
     "name": "BLS Internat.",
-    "price": 381.3
+    "price": 369.5
   },
   {
     "name": "Persistent Sys",
-    "price": 5930.7
+    "price": 5841
   },
   {
     "name": "Master Trust",
-    "price": 165.95
+    "price": 157.75
   },
   {
     "name": "Godawari Power",
-    "price": 189
+    "price": 183.75
   }
 ]
