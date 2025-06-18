@@ -1,54 +1,58 @@
 [
   {
     "name": "Tips Music",
-    "price": 689.2
+    "price": 675.9
   },
   {
     "name": "Shilchar Tech.",
-    "price": 5404
+    "price": 5425
   },
   {
     "name": "Shakti Pumps",
-    "price": 991
+    "price": 1006.35
   },
   {
     "name": "Tanfac Inds.",
-    "price": 3471.95
+    "price": 3545
   },
   {
     "name": "Dixon Technolog.",
-    "price": 14270.65
+    "price": 14273.55
   },
   {
     "name": "Indrapr.Medical",
-    "price": 410.2
+    "price": 405.1
   },
   {
     "name": "Gokul Agro",
-    "price": 290.75
+    "price": 320.8
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1435
+    "price": 1438.5
+  },
+  {
+    "name": "Banco Products",
+    "price": 590.05
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2407.8
+    "price": 2341.9
   },
   {
     "name": "Persistent Sys",
-    "price": 6040
+    "price": 6119.25
   },
   {
     "name": "D-Link India",
-    "price": 541.85
+    "price": 539.35
   },
   {
     "name": "Master Trust",
-    "price": 158
+    "price": 156.35
   },
   {
     "name": "Godawari Power",
-    "price": 185.5
+    "price": 183.15
   }
 ]
