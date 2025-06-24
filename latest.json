@@ -1,46 +1,42 @@
 [
   {
     "name": "Shilchar Tech.",
-    "price": 5270.35
+    "price": 5346.65
   },
   {
     "name": "Tanfac Inds.",
-    "price": 3342.4
+    "price": 3429.95
   },
   {
     "name": "Dixon Technolog.",
-    "price": 14047
+    "price": 14513.5
   },
   {
     "name": "Gokul Agro",
-    "price": 291.95
-  },
-  {
-    "name": "D.P. Abhushan",
-    "price": 1409.7
+    "price": 292.5
   },
   {
     "name": "Banco Products",
-    "price": 569.6
+    "price": 575
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2381.7
+    "price": 2400.8
   },
   {
     "name": "Persistent Sys",
-    "price": 6106.5
+    "price": 6084.15
   },
   {
     "name": "D-Link India",
-    "price": 543.2
+    "price": 521.65
   },
   {
     "name": "Master Trust",
-    "price": 150.48
+    "price": 150.45
   },
   {
     "name": "Godawari Power",
-    "price": 179.76
+    "price": 178.75
   }
 ]
