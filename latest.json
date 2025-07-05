@@ -1,38 +1,42 @@
 [
   {
     "name": "Tips Music",
-    "price": 667.7
+    "price": 667.85
   },
   {
     "name": "Shilchar Tech.",
-    "price": 5398.95
+    "price": 5594
   },
   {
     "name": "Tanfac Inds.",
-    "price": 3954.55
+    "price": 3911.75
   },
   {
     "name": "Dixon Technolog.",
-    "price": 15208.15
+    "price": 15202
   },
   {
     "name": "Sharda Motor",
-    "price": 1040.1
+    "price": 1052.7
   },
   {
     "name": "Gokul Agro",
-    "price": 306.5
+    "price": 299.8
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2509.9
+    "price": 2519.9
+  },
+  {
+    "name": "D-Link India",
+    "price": 569.95
   },
   {
     "name": "Persistent Sys",
-    "price": 5963.95
+    "price": 5896
   },
   {
     "name": "Godawari Power",
-    "price": 184.85
+    "price": 182.65
   }
 ]
