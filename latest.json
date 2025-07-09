@@ -1,42 +1,30 @@
 [
   {
-    "name": "Tips Music",
-    "price": 665.9
-  },
-  {
     "name": "Shilchar Tech.",
-    "price": 5697.9
+    "price": 5633.85
   },
   {
     "name": "Tanfac Inds.",
-    "price": 3993.75
+    "price": 3821.35
   },
   {
     "name": "Dixon Technolog.",
-    "price": 15399
+    "price": 15822.7
   },
   {
     "name": "Sharda Motor",
-    "price": 1167.2
+    "price": 1096.75
   },
   {
     "name": "Gokul Agro",
-    "price": 313.45
+    "price": 312.6
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2630
-  },
-  {
-    "name": "Apar Inds.",
-    "price": 8500
+    "price": 2540.7
   },
   {
     "name": "Persistent Sys",
-    "price": 5837.1
-  },
-  {
-    "name": "Godawari Power",
-    "price": 183
+    "price": 5789.55
   }
 ]
