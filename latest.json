@@ -1,50 +1,54 @@
 [
   {
     "name": "Shilchar Tech.",
-    "price": 5430
+    "price": 5290
   },
   {
     "name": "Ingersoll-Rand",
-    "price": 4225
+    "price": 4231.65
   },
   {
     "name": "Triveni Turbine",
-    "price": 654.5
+    "price": 658.9
   },
   {
     "name": "Tanfac Inds.",
-    "price": 4515.4
+    "price": 4929.85
   },
   {
     "name": "Dixon Technolog.",
-    "price": 16129.1
+    "price": 16106
   },
   {
     "name": "Sharda Motor",
-    "price": 1090.55
+    "price": 1084.3
   },
   {
     "name": "Solar Industries",
-    "price": 15216.25
+    "price": 15046.95
   },
   {
     "name": "IIFL Capital",
-    "price": 327.65
+    "price": 327.75
   },
   {
     "name": "Gokul Agro",
-    "price": 325.5
+    "price": 317.8
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1561.5
+    "price": 1530.25
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2610
+    "price": 2524.25
   },
   {
     "name": "Persistent Sys",
-    "price": 5559.55
+    "price": 5454.4
+  },
+  {
+    "name": "D-Link India",
+    "price": 533.8
   }
 ]
