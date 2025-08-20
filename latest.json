@@ -1,70 +1,66 @@
 [
   {
     "name": "Shilchar Tech.",
-    "price": 4961
+    "price": 4889
   },
   {
     "name": "Tanfac Inds.",
-    "price": 4444.9
+    "price": 4684.55
   },
   {
     "name": "Dixon Technolog.",
-    "price": 16721.4
+    "price": 16912.05
   },
   {
     "name": "Sharda Motor",
-    "price": 1040
+    "price": 1086.85
   },
   {
     "name": "Solar Industries",
-    "price": 14925.75
+    "price": 14707.95
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2627
+    "price": 2620
   },
   {
     "name": "Shanthi Gears",
-    "price": 550
+    "price": 571.05
   },
   {
     "name": "IIFL Capital",
-    "price": 331
+    "price": 329.4
   },
   {
     "name": "Gokul Agro",
-    "price": 304.9
+    "price": 313.8
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1660.55
+    "price": 1655.9
   },
   {
     "name": "Banco Products",
-    "price": 559
+    "price": 587.2
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2285.75
+    "price": 2300.9
   },
   {
     "name": "Apar Inds.",
-    "price": 8527.95
+    "price": 8450
   },
   {
     "name": "Persistent Sys",
-    "price": 5242.95
+    "price": 5216.45
   },
   {
     "name": "Master Trust",
-    "price": 164.6
-  },
-  {
-    "name": "Godawari Power",
-    "price": 203.1
+    "price": 162.95
   },
   {
     "name": "Kwality Pharma",
-    "price": 1013.9
+    "price": 1029.8
   }
 ]
