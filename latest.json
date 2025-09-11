@@ -1,38 +1,46 @@
 [
   {
     "name": "Shilchar Tech.",
-    "price": 4651.65
+    "price": 4700
   },
   {
     "name": "Tanfac Inds.",
-    "price": 4662.7
+    "price": 4565
   },
   {
     "name": "Dixon Technolog.",
-    "price": 17855
+    "price": 17915.25
   },
   {
     "name": "Solar Industries",
-    "price": 13915
+    "price": 14002.7
   },
   {
     "name": "Sharda Motor",
-    "price": 1057.5
+    "price": 1064.4
   },
   {
     "name": "Gokul Agro",
-    "price": 330.75
+    "price": 340
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1577.7
+    "price": 1540.1
+  },
+  {
+    "name": "Apar Inds.",
+    "price": 8444
   },
   {
     "name": "Banco Products",
-    "price": 608.7
+    "price": 619.75
   },
   {
     "name": "Master Trust",
-    "price": 156.4
+    "price": 148.31
+  },
+  {
+    "name": "Kwality Pharma",
+    "price": 967.35
   }
 ]
