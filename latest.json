@@ -1,38 +1,42 @@
 [
   {
     "name": "Shilchar Tech.",
-    "price": 4452.1
+    "price": 4501.65
   },
   {
     "name": "Dixon Technolog.",
-    "price": 16538.35
+    "price": 16591
   },
   {
     "name": "Indrapr.Medical",
-    "price": 444.45
+    "price": 462.4
   },
   {
     "name": "Solar Industries",
-    "price": 13276
+    "price": 13853
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2549.1
+    "price": 2724.4
   },
   {
     "name": "Sharda Motor",
-    "price": 1043.75
+    "price": 1086.5
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1435
+    "price": 1443.4
+  },
+  {
+    "name": "Apar Inds.",
+    "price": 8411.5
   },
   {
     "name": "Master Trust",
-    "price": 144.7
+    "price": 161.91
   },
   {
     "name": "Advait Energy",
-    "price": 1748
+    "price": 1781.1
   }
 ]
