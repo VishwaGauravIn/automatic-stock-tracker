@@ -1,46 +1,42 @@
 [
   {
     "name": "Dixon Technolog.",
-    "price": 16122
+    "price": 16044.25
   },
   {
     "name": "Solar Industries",
-    "price": 14107
+    "price": 14153.1
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2642.3
+    "price": 2654.25
   },
   {
     "name": "Sharda Motor",
-    "price": 1075.7
+    "price": 1073.45
   },
   {
     "name": "Gokul Agro",
-    "price": 168.9
+    "price": 170.55
   },
   {
     "name": "IIFL Capital",
-    "price": 350.45
+    "price": 348.55
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2411.6
+    "price": 2421.2
   },
   {
     "name": "Apar Inds.",
-    "price": 8584
+    "price": 8696.85
   },
   {
     "name": "Banco Products",
-    "price": 741.75
+    "price": 750.2
   },
   {
     "name": "Advait Energy",
-    "price": 1845.5
-  },
-  {
-    "name": "Supreme Petroch.",
-    "price": 802.95
+    "price": 1865
   }
 ]
