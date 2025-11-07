@@ -1,46 +1,38 @@
 [
   {
-    "name": "Mazagon Dock",
-    "price": 2683
-  },
-  {
     "name": "Dixon Technolog.",
-    "price": 15254
+    "price": 14779.9
   },
   {
     "name": "Solar Industries",
-    "price": 13624
+    "price": 13300
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2556.2
+    "price": 2551.3
   },
   {
     "name": "Sharda Motor",
-    "price": 1084.4
+    "price": 1134.25
   },
   {
     "name": "Gokul Agro",
-    "price": 175.84
+    "price": 171.15
   },
   {
     "name": "IIFL Capital",
-    "price": 335.55
+    "price": 327.4
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2462.6
+    "price": 2424.8
   },
   {
     "name": "Apar Inds.",
-    "price": 8338.5
+    "price": 8377.55
   },
   {
     "name": "Persistent Systems",
-    "price": 5858.5
-  },
-  {
-    "name": "Advait Energy",
-    "price": 1757.45
+    "price": 5719.05
   }
 ]
