@@ -1,50 +1,58 @@
 [
   {
     "name": "Waaree Renewab.",
-    "price": 1188.15
+    "price": 1169
   },
   {
     "name": "Mazagon Dock",
-    "price": 2765
+    "price": 2769.3
   },
   {
     "name": "Dixon Technolog.",
-    "price": 15350
+    "price": 15433
   },
   {
     "name": "Lloyds Metals",
-    "price": 1325
+    "price": 1277.1
   },
   {
     "name": "Solar Industries",
-    "price": 13945.1
+    "price": 13881.1
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2858.15
+    "price": 2842
   },
   {
     "name": "Sharda Motor",
-    "price": 1046.1
+    "price": 1045
   },
   {
     "name": "Gokul Agro",
-    "price": 193.15
+    "price": 201.4
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2351.5
+    "price": 2324.8
   },
   {
     "name": "Apar Inds.",
-    "price": 8988.75
+    "price": 8866.05
   },
   {
     "name": "Persistent Systems",
-    "price": 6100
+    "price": 6128.35
+  },
+  {
+    "name": "Beta Drugs Ltd",
+    "price": 1689.95
   },
   {
     "name": "Advait Energy",
-    "price": 1730.95
+    "price": 1836.85
+  },
+  {
+    "name": "Kwality Pharma",
+    "price": 988.3
   }
 ]
