@@ -1,54 +1,50 @@
 [
   {
-    "name": "Waaree Renewab.",
-    "price": 1047.55
-  },
-  {
     "name": "Dixon Technolog.",
-    "price": 14329.25
+    "price": 13975.7
   },
   {
     "name": "Indrapr.Medical",
-    "price": 495
+    "price": 491.9
   },
   {
     "name": "Lloyds Metals",
-    "price": 1208.75
+    "price": 1200.7
   },
   {
     "name": "Solar Industries",
-    "price": 13180
+    "price": 12818.4
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2595.05
+    "price": 2565
   },
   {
     "name": "Sharda Motor",
-    "price": 958.1
+    "price": 962.1
   },
   {
     "name": "Gokul Agro",
-    "price": 209.75
+    "price": 203.7
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1532.85
+    "price": 1507.85
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2207.4
+    "price": 2220
   },
   {
     "name": "Apar Inds.",
-    "price": 8855
+    "price": 8765.6
   },
   {
     "name": "Banco Products",
-    "price": 671
+    "price": 698
   },
   {
     "name": "Persistent Systems",
-    "price": 6371.95
+    "price": 6415
   }
 ]
