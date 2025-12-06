@@ -1,50 +1,38 @@
 [
   {
-    "name": "Dixon Technolog.",
-    "price": 13975.7
-  },
-  {
     "name": "Indrapr.Medical",
-    "price": 491.9
-  },
-  {
-    "name": "Lloyds Metals",
-    "price": 1200.7
+    "price": 473.4
   },
   {
     "name": "Solar Industries",
-    "price": 12818.4
-  },
-  {
-    "name": "Garden Reach Sh.",
-    "price": 2565
+    "price": 12819
   },
   {
     "name": "Sharda Motor",
-    "price": 962.1
+    "price": 973.05
   },
   {
     "name": "Gokul Agro",
-    "price": 203.7
+    "price": 198.47
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1507.85
+    "price": 1532.4
   },
   {
     "name": "RPG LifeScience.",
-    "price": 2220
+    "price": 2201
   },
   {
     "name": "Apar Inds.",
-    "price": 8765.6
+    "price": 8899
   },
   {
     "name": "Banco Products",
-    "price": 698
+    "price": 747.75
   },
   {
     "name": "Persistent Systems",
-    "price": 6415
+    "price": 6520.5
   }
 ]
