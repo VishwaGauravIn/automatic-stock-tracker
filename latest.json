@@ -1,34 +1,26 @@
 [
   {
     "name": "Indrapr.Medical",
-    "price": 465.55
+    "price": 457.05
   },
   {
     "name": "Sharda Motor",
-    "price": 965.15
+    "price": 935
   },
   {
     "name": "Gokul Agro",
-    "price": 194.25
-  },
-  {
-    "name": "D.P. Abhushan",
-    "price": 1456.9
-  },
-  {
-    "name": "RPG LifeScience.",
-    "price": 2316.2
+    "price": 187.7
   },
   {
     "name": "Apar Inds.",
-    "price": 8973.2
+    "price": 8680
   },
   {
     "name": "Banco Products",
-    "price": 708.95
+    "price": 683.4
   },
   {
     "name": "Persistent Systems",
-    "price": 6272.05
+    "price": 6291.7
   }
 ]
