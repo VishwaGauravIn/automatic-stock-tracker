@@ -1,26 +1,30 @@
 [
   {
     "name": "Indrapr.Medical",
-    "price": 457.05
+    "price": 463.6
+  },
+  {
+    "name": "Lloyds Metals",
+    "price": 1316.2
   },
   {
     "name": "Sharda Motor",
-    "price": 935
+    "price": 950
   },
   {
     "name": "Gokul Agro",
-    "price": 187.7
+    "price": 188.15
   },
   {
     "name": "Apar Inds.",
-    "price": 8680
+    "price": 8565.9
   },
   {
     "name": "Banco Products",
-    "price": 683.4
+    "price": 697
   },
   {
     "name": "Persistent Systems",
-    "price": 6291.7
+    "price": 6320
   }
 ]
