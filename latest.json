@@ -1,30 +1,34 @@
 [
   {
     "name": "Indrapr.Medical",
-    "price": 463.6
+    "price": 469.8
   },
   {
     "name": "Lloyds Metals",
-    "price": 1316.2
+    "price": 1373.5
   },
   {
     "name": "Sharda Motor",
-    "price": 950
+    "price": 963.85
   },
   {
     "name": "Gokul Agro",
-    "price": 188.15
+    "price": 187.7
   },
   {
     "name": "Apar Inds.",
-    "price": 8565.9
+    "price": 8881.3
   },
   {
     "name": "Banco Products",
-    "price": 697
+    "price": 703.75
   },
   {
     "name": "Persistent Systems",
-    "price": 6320
+    "price": 6488.95
+  },
+  {
+    "name": "Kwality Pharma",
+    "price": 1094
   }
 ]
