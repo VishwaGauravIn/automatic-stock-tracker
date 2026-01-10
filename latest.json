@@ -1,34 +1,30 @@
 [
   {
     "name": "Lloyds Metals",
-    "price": 1319.5
-  },
-  {
-    "name": "Garden Reach Sh.",
-    "price": 2521.25
+    "price": 1265.2
   },
   {
     "name": "Gokul Agro",
-    "price": 171.3
+    "price": 166.22
   },
   {
     "name": "Apar Inds.",
-    "price": 8217.5
+    "price": 8188
   },
   {
     "name": "Banco Products",
-    "price": 689.8
+    "price": 668.3
   },
   {
     "name": "Persistent Systems",
-    "price": 6481.9
+    "price": 6417
   },
   {
     "name": "Gravita India",
-    "price": 1762.35
+    "price": 1680
   },
   {
     "name": "Kwality Pharma",
-    "price": 1112.6
+    "price": 1153.35
   }
 ]
