@@ -1,26 +1,30 @@
 [
   {
+    "name": "Tanfac Inds.",
+    "price": 4483.5
+  },
+  {
     "name": "Lloyds Metals",
-    "price": 1238.7
+    "price": 1229
   },
   {
     "name": "Gokul Agro",
-    "price": 163.98
+    "price": 167.35
   },
   {
     "name": "Apar Inds.",
-    "price": 7478
+    "price": 7410.5
   },
   {
     "name": "Banco Products",
-    "price": 640.85
+    "price": 630.05
   },
   {
     "name": "Persistent Systems",
-    "price": 6274
+    "price": 6403
   },
   {
     "name": "Kwality Pharma",
-    "price": 1069.05
+    "price": 1092.5
   }
 ]
