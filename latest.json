@@ -1,14 +1,22 @@
 [
   {
     "name": "Tanfac Inds.",
-    "price": 3799.85
+    "price": 3960
+  },
+  {
+    "name": "Garden Reach Sh.",
+    "price": 2563.4
+  },
+  {
+    "name": "Gokul Agro",
+    "price": 155.7
   },
   {
     "name": "Persistent Systems",
-    "price": 6155
+    "price": 6016.3
   },
   {
     "name": "Kwality Pharma",
-    "price": 1109.85
+    "price": 1073.95
   }
 ]
