@@ -1,22 +1,26 @@
 [
   {
+    "name": "Garden Reach Sh.",
+    "price": 2533.8
+  },
+  {
     "name": "Gokul Agro",
-    "price": 161.17
+    "price": 174.5
   },
   {
     "name": "Apar Inds.",
-    "price": 9490
+    "price": 9618.75
   },
   {
     "name": "Banco Products",
-    "price": 626.4
+    "price": 651.35
   },
   {
     "name": "Persistent Systems",
-    "price": 5852
+    "price": 5901.45
   },
   {
     "name": "Kwality Pharma",
-    "price": 1157.65
+    "price": 1160
   }
 ]
