@@ -1,22 +1,22 @@
 [
   {
     "name": "Gokul Agro",
-    "price": 169.15
+    "price": 169.58
+  },
+  {
+    "name": "IIFL Capital",
+    "price": 288.5
   },
   {
     "name": "Apar Inds.",
-    "price": 10929.9
+    "price": 11180.5
   },
   {
     "name": "Banco Products",
-    "price": 623.85
-  },
-  {
-    "name": "Angel One",
-    "price": 237.75
+    "price": 622.95
   },
   {
     "name": "Kwality Pharma",
-    "price": 1501.65
+    "price": 1555.85
   }
 ]
