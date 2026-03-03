@@ -1,18 +1,22 @@
 [
   {
+    "name": "Solar Industries",
+    "price": 13989
+  },
+  {
     "name": "Gokul Agro",
-    "price": 163
+    "price": 160.47
   },
   {
     "name": "IIFL Capital",
-    "price": 312.9
+    "price": 315.95
   },
   {
     "name": "Apar Inds.",
-    "price": 11047.4
+    "price": 10694
   },
   {
     "name": "Kwality Pharma",
-    "price": 1533
+    "price": 1514.3
   }
 ]
