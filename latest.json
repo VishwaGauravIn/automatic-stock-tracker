@@ -1,22 +1,18 @@
 [
   {
     "name": "Solar Industries",
-    "price": 14518
-  },
-  {
-    "name": "Garden Reach Sh.",
-    "price": 2500.75
+    "price": 14506.25
   },
   {
     "name": "Gokul Agro",
-    "price": 165.05
+    "price": 161.3
   },
   {
     "name": "IIFL Capital",
-    "price": 302.8
+    "price": 292
   },
   {
     "name": "Apar Inds.",
-    "price": 9906.05
+    "price": 9114.3
   }
 ]
