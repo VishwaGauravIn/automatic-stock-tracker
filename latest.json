@@ -1,14 +1,22 @@
 [
   {
     "name": "Solar Industries",
-    "price": 14307.25
+    "price": 14251
   },
   {
     "name": "Gokul Agro",
-    "price": 158.5
+    "price": 159.72
   },
   {
     "name": "Apar Inds.",
-    "price": 9038.95
+    "price": 8989
+  },
+  {
+    "name": "Stylam Industrie",
+    "price": 2210.9
+  },
+  {
+    "name": "Kwality Pharma",
+    "price": 1581.1
   }
 ]
