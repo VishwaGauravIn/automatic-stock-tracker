@@ -1,18 +1,22 @@
 [
   {
     "name": "Tanfac Inds.",
-    "price": 1950.6
+    "price": 1949
+  },
+  {
+    "name": "Solar Industries",
+    "price": 12538
   },
   {
     "name": "Gokul Agro",
-    "price": 184.3
+    "price": 188.3
   },
   {
     "name": "Apar Inds.",
-    "price": 9886.5
+    "price": 9978.3
   },
   {
     "name": "Kwality Pharma",
-    "price": 1438.9
+    "price": 1370
   }
 ]
