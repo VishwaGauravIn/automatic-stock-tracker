@@ -1,26 +1,30 @@
 [
   {
     "name": "Tanfac Inds.",
-    "price": 2161.75
+    "price": 2181.2
+  },
+  {
+    "name": "Lloyds Metals",
+    "price": 1500.85
   },
   {
     "name": "Solar Industries",
-    "price": 13668
+    "price": 14117.5
   },
   {
     "name": "Gokul Agro",
-    "price": 199.45
+    "price": 201.85
   },
   {
     "name": "Apar Inds.",
-    "price": 10546
+    "price": 11105
   },
   {
     "name": "Advait Energy",
-    "price": 1824.6
+    "price": 1880
   },
   {
     "name": "Kwality Pharma",
-    "price": 1559.95
+    "price": 1618.3
   }
 ]
