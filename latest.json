@@ -1,46 +1,50 @@
 [
   {
     "name": "Tips Music",
-    "price": 638.15
-  },
-  {
-    "name": "Shilchar Tech.",
-    "price": 5181.5
+    "price": 647.6
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2869.8
+    "price": 3032
   },
   {
     "name": "Natl. Aluminium",
-    "price": 415.35
+    "price": 415.15
   },
   {
-    "name": "Lloyds Metals",
-    "price": 1769.8
+    "name": "Dynacons Sys.",
+    "price": 1305.5
   },
   {
     "name": "Solar Industries",
-    "price": 15560
+    "price": 15650
+  },
+  {
+    "name": "Lloyds Metals",
+    "price": 1758.35
   },
   {
     "name": "C P C L",
-    "price": 1086
+    "price": 1069.6
   },
   {
     "name": "Gokul Agro",
-    "price": 238.45
+    "price": 235.5
   },
   {
     "name": "Apar Inds.",
-    "price": 12655.55
+    "price": 12519.8
   },
   {
     "name": "Advait Energy",
-    "price": 2040.45
+    "price": 1974.95
+  },
+  {
+    "name": "Volt.Transform.",
+    "price": 10025
   },
   {
     "name": "Kwality Pharma",
-    "price": 1662.4
+    "price": 1676.9
   }
 ]
