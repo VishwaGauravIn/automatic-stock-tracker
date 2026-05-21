@@ -1,66 +1,74 @@
 [
   {
     "name": "Tips Music",
-    "price": 663.5
+    "price": 664.95
   },
   {
     "name": "GE Vernova T&amp;D",
-    "price": 4600
+    "price": 4880
   },
   {
     "name": "Multi Comm. Exc.",
-    "price": 3423.9
+    "price": 3340
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2623.95
+    "price": 2685.85
   },
   {
     "name": "V-Marc India",
-    "price": 1090
+    "price": 1097.1
   },
   {
     "name": "Natl. Aluminium",
-    "price": 401.2
+    "price": 405.8
   },
   {
     "name": "Dynacons Sys.",
-    "price": 1494.3
+    "price": 1664.3
+  },
+  {
+    "name": "Indo Tech.Trans.",
+    "price": 2401.95
   },
   {
     "name": "Solar Industries",
-    "price": 18195.1
+    "price": 18390
   },
   {
     "name": "Gokul Agro",
-    "price": 230.7
+    "price": 222.45
   },
   {
     "name": "Lloyds Metals",
-    "price": 1656.95
+    "price": 1666.4
   },
   {
     "name": "C P C L",
-    "price": 1001.1
+    "price": 1017.7
   },
   {
     "name": "Apar Inds.",
-    "price": 12648.3
+    "price": 12840
+  },
+  {
+    "name": "Raghav Product.",
+    "price": 905.9
   },
   {
     "name": "CG Power &amp; Ind",
-    "price": 840.2
+    "price": 862.9
   },
   {
     "name": "Advait Energy",
-    "price": 1950.9
+    "price": 2099
   },
   {
     "name": "Volt.Transform.",
-    "price": 9119.75
+    "price": 9274
   },
   {
     "name": "Tanfac Inds.",
-    "price": 2086.35
+    "price": 2124.95
   }
 ]
