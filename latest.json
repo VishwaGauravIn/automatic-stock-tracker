@@ -1,98 +1,102 @@
 [
   {
     "name": "Tips Music",
-    "price": 634.75
+    "price": 640.25
   },
   {
     "name": "One Global Serv",
-    "price": 609.95
+    "price": 633.9
   },
   {
     "name": "GE Vernova T&amp;D",
-    "price": 4888
+    "price": 4942.5
   },
   {
     "name": "Multi Comm. Exc.",
-    "price": 2816.95
+    "price": 2853
   },
   {
     "name": "Frontier Springs",
-    "price": 1495
+    "price": 1478.8
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2610
+    "price": 2648.7
   },
   {
     "name": "V-Marc India",
-    "price": 1396.85
+    "price": 1399.65
   },
   {
     "name": "Natl. Aluminium",
-    "price": 377.85
+    "price": 376.85
   },
   {
     "name": "Cummins India",
-    "price": 5621.95
+    "price": 5621.5
   },
   {
     "name": "Indo Tech.Trans.",
-    "price": 2547.65
+    "price": 2604
   },
   {
     "name": "Solar Industries",
-    "price": 17150.2
+    "price": 17143
   },
   {
     "name": "Gokul Agro",
-    "price": 231.55
+    "price": 233.07
   },
   {
     "name": "Lloyds Metals",
-    "price": 1758.85
+    "price": 1761.9
   },
   {
     "name": "C P C L",
-    "price": 1130.85
+    "price": 1137.7
   },
   {
     "name": "Prec. Wires (I)",
-    "price": 389.1
+    "price": 391.75
   },
   {
     "name": "Banco Products",
-    "price": 683.05
+    "price": 689.55
   },
   {
     "name": "Raghav Product.",
-    "price": 1185.5
+    "price": 1189.05
+  },
+  {
+    "name": "SKM Egg Prod.",
+    "price": 240.62
   },
   {
     "name": "Fiem Industries",
-    "price": 2282.1
+    "price": 2308.7
+  },
+  {
+    "name": "D-Link India",
+    "price": 501.65
   },
   {
     "name": "Advait Energy",
-    "price": 2341
+    "price": 2305.8
   },
   {
     "name": "Monarch Networth",
-    "price": 343.8
+    "price": 339.95
   },
   {
     "name": "CG Power &amp; Ind",
-    "price": 906.2
+    "price": 914.45
   },
   {
     "name": "Volt.Transform.",
-    "price": 9752.85
+    "price": 9719.5
   },
   {
     "name": "AGI Infra",
-    "price": 369.8
-  },
-  {
-    "name": "Knowledge Marine",
-    "price": 1901.05
+    "price": 372.5
   }
 ]
