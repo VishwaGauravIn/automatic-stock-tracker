@@ -76,10 +76,6 @@
     "price": 1197.95
   },
   {
-    "name": "SKM Egg Prod.",
-    "price": 237.26
-  },
-  {
     "name": "Dynacons Sys.",
     "price": 1449.3
   },
@@ -98,5 +94,9 @@
   {
     "name": "Monarch Networth",
     "price": 350.25
+  },
+  {
+    "name": "CG Power &amp; Ind",
+    "price": 963.7
   }
 ]
