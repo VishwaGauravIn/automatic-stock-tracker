@@ -64,10 +64,6 @@
     "price": 13889
   },
   {
-    "name": "Arrow Greentech",
-    "price": 708.9
-  },
-  {
     "name": "Raghav Product.",
     "price": 1303.2
   },
@@ -98,5 +94,9 @@
   {
     "name": "Tinna Rubber",
     "price": 1098.85
+  },
+  {
+    "name": "AGI Infra",
+    "price": 311.75
   }
 ]
