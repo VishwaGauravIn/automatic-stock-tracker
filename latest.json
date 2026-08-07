@@ -1,98 +1,94 @@
 [
   {
-    "name": "One Global Serv",
-    "price": 562
-  },
-  {
     "name": "GE Vernova T&amp;D",
-    "price": 4315.7
+    "price": 4320
   },
   {
     "name": "Multi Comm. Exc.",
-    "price": 2654
+    "price": 2678
   },
   {
     "name": "Frontier Springs",
-    "price": 1408.4
+    "price": 1385
   },
   {
     "name": "Shilchar Tech.",
-    "price": 4498
+    "price": 4558.1
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2559.35
+    "price": 2606
   },
   {
     "name": "Natl. Aluminium",
-    "price": 378.8
+    "price": 379.4
   },
   {
     "name": "Cummins India",
-    "price": 5368.1
+    "price": 5442.5
   },
   {
     "name": "Solar Industries",
-    "price": 18627.95
+    "price": 18467.2
   },
   {
     "name": "Indo Tech.Trans.",
-    "price": 3610
+    "price": 3780
   },
   {
     "name": "Gokul Agro",
-    "price": 227.4
+    "price": 227.95
   },
   {
     "name": "C P C L",
-    "price": 1287
+    "price": 1268.25
   },
   {
     "name": "Prec. Wires (I)",
-    "price": 419.05
+    "price": 407.65
   },
   {
     "name": "Apar Inds.",
-    "price": 16193.2
+    "price": 16640
   },
   {
     "name": "Banco Products",
-    "price": 687
+    "price": 688.7
   },
   {
     "name": "Raghav Product.",
-    "price": 1254.2
+    "price": 1255
   },
   {
     "name": "Fiem Industries",
-    "price": 2491.4
+    "price": 2502.95
   },
   {
     "name": "Macpower CNC",
-    "price": 1496.8
+    "price": 1675.8
   },
   {
     "name": "Advait Energy",
-    "price": 2283.4
+    "price": 2361.75
   },
   {
     "name": "Monarch Networth",
-    "price": 388.85
+    "price": 389.25
   },
   {
     "name": "Lloyds Metals",
-    "price": 2068.25
+    "price": 2096
   },
   {
     "name": "Tinna Rubber",
-    "price": 1122.45
-  },
-  {
-    "name": "AGI Infra",
-    "price": 306.6
+    "price": 1105.35
   },
   {
     "name": "Gravita India",
-    "price": 1692.45
+    "price": 1722.8
+  },
+  {
+    "name": "Knowledge Marine",
+    "price": 2495.7
   }
 ]
