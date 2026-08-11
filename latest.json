@@ -1,94 +1,102 @@
 [
   {
+    "name": "One Global Serv",
+    "price": 619.95
+  },
+  {
     "name": "GE Vernova T&amp;D",
-    "price": 4199.45
+    "price": 4284.05
   },
   {
     "name": "Multi Comm. Exc.",
-    "price": 2656
+    "price": 2798.6
   },
   {
     "name": "Jindal Poly Inve",
-    "price": 1059.9
+    "price": 1048
   },
   {
     "name": "Frontier Springs",
-    "price": 1415.95
+    "price": 1396.6
   },
   {
     "name": "Shilchar Tech.",
-    "price": 4674.4
+    "price": 4590
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2586.1
+    "price": 2592
   },
   {
     "name": "Natl. Aluminium",
-    "price": 387.2
+    "price": 390.85
+  },
+  {
+    "name": "D.P. Abhushan",
+    "price": 1472.85
   },
   {
     "name": "Cummins India",
-    "price": 5420.65
+    "price": 5386.25
   },
   {
     "name": "Solar Industries",
-    "price": 18584
+    "price": 18479.05
   },
   {
     "name": "Indo Tech.Trans.",
-    "price": 3760
+    "price": 3824.5
   },
   {
     "name": "Gokul Agro",
-    "price": 229.9
+    "price": 227.4
   },
   {
     "name": "C P C L",
-    "price": 1245
+    "price": 1334
   },
   {
     "name": "Prec. Wires (I)",
-    "price": 423.65
+    "price": 410.05
   },
   {
     "name": "Apar Inds.",
-    "price": 16942.45
+    "price": 16610
   },
   {
     "name": "Banco Products",
-    "price": 632.1
+    "price": 634
   },
   {
     "name": "Raghav Product.",
-    "price": 1286.5
+    "price": 1317.05
   },
   {
     "name": "Fiem Industries",
-    "price": 2609.2
+    "price": 2585
   },
   {
     "name": "Macpower CNC",
-    "price": 1666.1
+    "price": 1780.1
   },
   {
     "name": "Advait Energy",
-    "price": 2226.7
+    "price": 2199.65
   },
   {
     "name": "Monarch Networth",
-    "price": 385
+    "price": 369.95
   },
   {
     "name": "Lloyds Metals",
-    "price": 2079.3
+    "price": 2045.9
   },
   {
     "name": "Tinna Rubber",
-    "price": 1130
+    "price": 1131
   },
   {
     "name": "Gravita India",
-    "price": 1770
+    "price": 1790.15
   }
 ]
