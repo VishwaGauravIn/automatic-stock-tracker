@@ -1,102 +1,98 @@
 [
   {
-    "name": "Tips Music",
-    "price": 661.4
-  },
-  {
-    "name": "One Global Serv",
-    "price": 565.3
-  },
-  {
     "name": "GE Vernova T&amp;D",
-    "price": 4324.05
+    "price": 4266.9
   },
   {
     "name": "Multi Comm. Exc.",
-    "price": 2922.45
-  },
-  {
-    "name": "Frontier Springs",
-    "price": 1318.25
+    "price": 2942.05
   },
   {
     "name": "Shilchar Tech.",
-    "price": 3908.45
+    "price": 3919.25
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2621.95
+    "price": 2643.35
   },
   {
     "name": "Natl. Aluminium",
-    "price": 382.7
+    "price": 389.15
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1403.45
+    "price": 1385.55
   },
   {
     "name": "Cummins India",
-    "price": 5371.35
+    "price": 5456.7
   },
   {
     "name": "Solar Industries",
-    "price": 20134.6
+    "price": 20306
   },
   {
     "name": "Indo Tech.Trans.",
-    "price": 3528.05
+    "price": 3738.45
   },
   {
     "name": "Gokul Agro",
-    "price": 233.65
+    "price": 232.7
   },
   {
     "name": "C P C L",
-    "price": 1345.4
+    "price": 1440
   },
   {
     "name": "Prec. Wires (I)",
-    "price": 456.9
+    "price": 453.7
   },
   {
     "name": "Apar Inds.",
-    "price": 16694.3
+    "price": 16383.35
+  },
+  {
+    "name": "Banco Products",
+    "price": 629.05
   },
   {
     "name": "Arrow Greentech",
-    "price": 785
+    "price": 733.75
   },
   {
     "name": "Raghav Product.",
-    "price": 1416.15
+    "price": 1423
   },
   {
     "name": "Fiem Industries",
-    "price": 2318.05
+    "price": 2246
   },
   {
     "name": "Macpower CNC",
-    "price": 1764.1
+    "price": 1852.4
   },
   {
     "name": "Advait Energy",
-    "price": 2078.15
+    "price": 2082.3
   },
   {
     "name": "Monarch Networth",
-    "price": 389
+    "price": 387.35
   },
   {
     "name": "Lloyds Metals",
-    "price": 1913.5
+    "price": 1935
   },
   {
     "name": "Tinna Rubber",
-    "price": 1075.55
+    "price": 1043.6
   },
   {
     "name": "Gravita India",
-    "price": 1773.85
+    "price": 1814
+  },
+  {
+    "name": "Knowledge Marine",
+    "price": 2694
   }
 ]
