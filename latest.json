@@ -1,75 +1,83 @@
 [
   {
+    "name": "Tips Music",
+    "price": 652
+  },
+  {
+    "name": "One Global Serv",
+    "price": 570.65
+  },
+  {
     "name": "GE Vernova T&amp;D",
-    "price": 4058
+    "price": 4082.2
   },
   {
     "name": "Multi Comm. Exc.",
-    "price": 3007
+    "price": 3020.25
   },
   {
     "name": "Shilchar Tech.",
-    "price": 3898.55
+    "price": 3918.3
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2649.95
+    "price": 2650
   },
   {
     "name": "Natl. Aluminium",
-    "price": 380.8
+    "price": 387.05
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1442
+    "price": 1487.65
   },
   {
     "name": "Cummins India",
-    "price": 5253.35
+    "price": 5202.55
   },
   {
     "name": "Solar Industries",
-    "price": 19740
+    "price": 19730.45
   },
   {
     "name": "Indo Tech.Trans.",
-    "price": 3817.05
+    "price": 3615.75
   },
   {
     "name": "Gokul Agro",
-    "price": 236.85
+    "price": 250.75
   },
   {
     "name": "C P C L",
-    "price": 1474
+    "price": 1390.65
   },
   {
     "name": "Prec. Wires (I)",
-    "price": 440.85
+    "price": 435.15
   },
   {
     "name": "Banco Products",
-    "price": 626.35
+    "price": 623.7
   },
   {
     "name": "Arrow Greentech",
-    "price": 728.95
+    "price": 694
   },
   {
     "name": "Raghav Product.",
-    "price": 1540
+    "price": 1616.65
   },
   {
     "name": "Fiem Industries",
-    "price": 2220.85
+    "price": 2234.5
   },
   {
     "name": "Macpower CNC",
-    "price": 1950
+    "price": 1946
   },
   {
     "name": "Advait Energy",
-    "price": 2118.7
+    "price": 2110.35
   },
   {
     "name": "Monarch Networth",
@@ -77,22 +85,18 @@
   },
   {
     "name": "Lloyds Metals",
-    "price": 1927.45
+    "price": 1924.3
   },
   {
     "name": "Tinna Rubber",
-    "price": 1046
+    "price": 1052.3
   },
   {
     "name": "Beta Drugs Ltd",
-    "price": 2370.1
+    "price": 2407.1
   },
   {
     "name": "Gravita India",
-    "price": 1790.1
-  },
-  {
-    "name": "Knowledge Marine",
-    "price": 2730.95
+    "price": 1822.75
   }
 ]
