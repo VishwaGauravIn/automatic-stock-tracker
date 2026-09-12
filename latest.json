@@ -1,43 +1,39 @@
 [
   {
     "name": "GE Vernova T&amp;D",
-    "price": 4505.8
+    "price": 4548.1
   },
   {
     "name": "Multi Comm. Exc.",
-    "price": 3282.85
+    "price": 3276
   },
   {
     "name": "Garden Reach Sh.",
-    "price": 2388.4
+    "price": 2427.5
   },
   {
     "name": "Indo Tech.Trans.",
-    "price": 3546.3
-  },
-  {
-    "name": "Natl. Aluminium",
-    "price": 361
+    "price": 3522.9
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1341.95
+    "price": 1340.6
   },
   {
     "name": "Cummins India",
-    "price": 5086
+    "price": 5070
   },
   {
     "name": "Solar Industries",
-    "price": 22406.8
+    "price": 22290
   },
   {
     "name": "Shukra Pharma.",
-    "price": 54.38
+    "price": 53.94
   },
   {
     "name": "Gokul Agro",
-    "price": 227
+    "price": 226.76
   },
   {
     "name": "Vikram Thermo",
@@ -45,50 +41,54 @@
   },
   {
     "name": "C P C L",
-    "price": 1570.55
+    "price": 1572.9
   },
   {
     "name": "Prec. Wires (I)",
-    "price": 461.85
+    "price": 462.55
   },
   {
     "name": "Arrow Greentech",
-    "price": 780.25
+    "price": 813
   },
   {
     "name": "Macpower CNC",
-    "price": 1852.3
+    "price": 1843
   },
   {
     "name": "Advait Energy",
-    "price": 2053
+    "price": 2065
   },
   {
     "name": "Monarch Networth",
-    "price": 367.05
+    "price": 373.95
   },
   {
     "name": "Lloyds Metals",
-    "price": 1797.1
+    "price": 1799.6
   },
   {
     "name": "Volt.Transform.",
-    "price": 11165.6
+    "price": 11217
   },
   {
     "name": "Tinna Rubber",
-    "price": 1030.05
+    "price": 1034.05
   },
   {
     "name": "Network People",
-    "price": 1682.6
+    "price": 1686.1
+  },
+  {
+    "name": "Beta Drugs Ltd",
+    "price": 2118.5
   },
   {
     "name": "Gravita India",
-    "price": 1674.05
+    "price": 1668.2
   },
   {
     "name": "Knowledge Marine",
-    "price": 2872.75
+    "price": 2869.2
   }
 ]
