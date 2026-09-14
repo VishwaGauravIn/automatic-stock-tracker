@@ -16,6 +16,10 @@
     "price": 3522.9
   },
   {
+    "name": "Natl. Aluminium",
+    "price": 361
+  },
+  {
     "name": "D.P. Abhushan",
     "price": 1340.6
   },
@@ -62,10 +66,6 @@
   {
     "name": "Lloyds Metals",
     "price": 1799.6
-  },
-  {
-    "name": "Volt.Transform.",
-    "price": 11217
   },
   {
     "name": "Tinna Rubber",
