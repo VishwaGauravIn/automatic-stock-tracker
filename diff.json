@@ -1,9 +1,17 @@
 {
-  "added": [
+  "added": [],
+  "removed": [
     {
-      "name": "Arrow Greentech",
-      "price": 855.65
+      "name": "One Global Serv",
+      "price": 576.4
+    },
+    {
+      "name": "Raghav Product.",
+      "price": 1734.1
+    },
+    {
+      "name": "Premier Polyfilm",
+      "price": 102.85
     }
-  ],
-  "removed": []
+  ]
 }
