@@ -1,74 +1,82 @@
 [
   {
+    "name": "One Global Serv",
+    "price": 554.1
+  },
+  {
     "name": "GE Vernova T&amp;D",
-    "price": 4262
+    "price": 4180.05
   },
   {
     "name": "Multi Comm. Exc.",
-    "price": 3385
+    "price": 3308
   },
   {
     "name": "V-Marc India",
-    "price": 321.3
+    "price": 316.5
   },
   {
     "name": "Indo Tech.Trans.",
-    "price": 3104
+    "price": 3207
   },
   {
     "name": "D.P. Abhushan",
-    "price": 2365.6
+    "price": 2320.55
   },
   {
     "name": "Cummins India",
-    "price": 4840.3
+    "price": 4810
   },
   {
     "name": "Solar Industries",
-    "price": 20360
+    "price": 20105
   },
   {
     "name": "Shukra Pharma.",
-    "price": 66.5
+    "price": 66.9
   },
   {
     "name": "Gokul Agro",
-    "price": 205.6
+    "price": 208.25
   },
   {
     "name": "C P C L",
-    "price": 1480
+    "price": 1459.9
   },
   {
     "name": "Prec. Wires (I)",
-    "price": 488.55
+    "price": 476
   },
   {
     "name": "Arrow Greentech",
-    "price": 842
+    "price": 839
   },
   {
     "name": "Macpower CNC",
-    "price": 2000.2
+    "price": 1944.3
+  },
+  {
+    "name": "Premier Polyfilm",
+    "price": 110.55
   },
   {
     "name": "Lloyds Metals",
-    "price": 1810
+    "price": 1816
   },
   {
     "name": "Advait Energy",
-    "price": 1925
+    "price": 1915.1
   },
   {
     "name": "Volt.Transform.",
-    "price": 10526
+    "price": 10330
   },
   {
     "name": "Network People",
-    "price": 1775.45
+    "price": 1831
   },
   {
     "name": "Knowledge Marine",
-    "price": 3340
+    "price": 3239.85
   }
 ]
