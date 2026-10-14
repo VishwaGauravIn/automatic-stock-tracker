@@ -1,13 +1,14 @@
 {
   "added": [
     {
-      "name": "One Global Serv",
-      "price": 554.1
-    },
-    {
-      "name": "Premier Polyfilm",
-      "price": 110.55
+      "name": "Tips Music",
+      "price": 719.7
     }
   ],
-  "removed": []
+  "removed": [
+    {
+      "name": "One Global Serv",
+      "price": 554.1
+    }
+  ]
 }
