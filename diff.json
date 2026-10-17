@@ -1,17 +1,9 @@
 {
-  "added": [],
-  "removed": [
-    {
-      "name": "Tips Music",
-      "price": 690.6
-    },
-    {
-      "name": "One Global Serv",
-      "price": 556.15
-    },
+  "added": [
     {
       "name": "Raghav Product.",
-      "price": 1757.85
+      "price": 1811.5
     }
-  ]
+  ],
+  "removed": []
 }
