@@ -1,0 +1,14 @@
+{
+  "added": [
+    {
+      "name": "CG Power &amp; Ind",
+      "price": 846
+    }
+  ],
+  "removed": [
+    {
+      "name": "Arrow Greentech",
+      "price": 805.75
+    }
+  ]
+}

@@ -52,10 +52,6 @@
     "price": 1811.5
   },
   {
-    "name": "Arrow Greentech",
-    "price": 805.75
-  },
-  {
     "name": "Macpower CNC",
     "price": 1925
   },
@@ -66,6 +62,10 @@
   {
     "name": "Lloyds Metals",
     "price": 1851.7
+  },
+  {
+    "name": "CG Power &amp; Ind",
+    "price": 846
   },
   {
     "name": "Advait Energy",
