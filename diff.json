@@ -1,13 +1,22 @@
 {
-  "added": [],
+  "added": [
+    {
+      "name": "Vikram Thermo",
+      "price": 346.45
+    }
+  ],
   "removed": [
     {
-      "name": "GE Vernova T&amp;D",
-      "price": 3959.1
+      "name": "V-Marc India",
+      "price": 292.25
     },
     {
-      "name": "CG Power &amp; Ind",
-      "price": 846
+      "name": "Indo Tech.Trans.",
+      "price": 3006.05
+    },
+    {
+      "name": "Advait Energy",
+      "price": 1772.85
     }
   ]
 }
