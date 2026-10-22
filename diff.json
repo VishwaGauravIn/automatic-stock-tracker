@@ -1,22 +1,14 @@
 {
   "added": [
     {
-      "name": "Vikram Thermo",
-      "price": 346.45
+      "name": "Tips Music",
+      "price": 721.25
     }
   ],
   "removed": [
     {
-      "name": "V-Marc India",
-      "price": 292.25
-    },
-    {
-      "name": "Indo Tech.Trans.",
-      "price": 3006.05
-    },
-    {
-      "name": "Advait Energy",
-      "price": 1772.85
+      "name": "Premier Polyfilm",
+      "price": 98.03
     }
   ]
 }
