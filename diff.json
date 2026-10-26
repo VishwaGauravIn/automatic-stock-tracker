@@ -1,9 +1,13 @@
 {
-  "added": [],
-  "removed": [
+  "added": [
     {
-      "name": "Volt.Transform.",
-      "price": 9607.05
+      "name": "V-Marc India",
+      "price": 289.05
+    },
+    {
+      "name": "Vikram Thermo",
+      "price": 326.1
     }
-  ]
+  ],
+  "removed": []
 }

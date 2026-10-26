@@ -1,58 +1,66 @@
 [
   {
     "name": "Multi Comm. Exc.",
-    "price": 3020.3
+    "price": 3119.95
+  },
+  {
+    "name": "V-Marc India",
+    "price": 289.05
   },
   {
     "name": "D.P. Abhushan",
-    "price": 2186
+    "price": 2135.9
   },
   {
     "name": "Cummins India",
-    "price": 4344.2
+    "price": 4352.4
   },
   {
     "name": "Solar Industries",
-    "price": 18365
+    "price": 18520
   },
   {
     "name": "Shukra Pharma.",
-    "price": 64.46
+    "price": 68
   },
   {
     "name": "Gokul Agro",
-    "price": 196.17
+    "price": 196.25
+  },
+  {
+    "name": "Vikram Thermo",
+    "price": 326.1
   },
   {
     "name": "C P C L",
-    "price": 1475.6
+    "price": 1534.8
   },
   {
     "name": "Prec. Wires (I)",
-    "price": 401.65
+    "price": 395.45
   },
   {
     "name": "Apar Inds.",
-    "price": 14379
+    "price": 14797
   },
   {
     "name": "Raghav Product.",
-    "price": 1632.2
+    "price": 1690.2
   },
   {
     "name": "Macpower CNC",
-    "price": 1772.9
+    "price": 1896.4
   },
   {
     "name": "Lloyds Metals",
-    "price": 1781.5
+    "price": 1782.85
   },
   {
     "name": "Network People",
-    "price": 1648.3
+    "price": 1652.5
   },
   {
     "name": "Knowledge Marine",
-    "price": 3149.7
+    "price": 3295.9
   }
 ]
