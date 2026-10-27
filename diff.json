@@ -1,13 +1,18 @@
 {
   "added": [
     {
-      "name": "V-Marc India",
-      "price": 289.05
+      "name": "GE Vernova T&amp;D",
+      "price": 4010
     },
     {
-      "name": "Vikram Thermo",
-      "price": 326.1
+      "name": "Indo Tech.Trans.",
+      "price": 2844.9
     }
   ],
-  "removed": []
+  "removed": [
+    {
+      "name": "Cummins India",
+      "price": 4352.4
+    }
+  ]
 }
