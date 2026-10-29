@@ -1,9 +1,22 @@
 {
-  "added": [],
+  "added": [
+    {
+      "name": "Tips Music",
+      "price": 790.45
+    },
+    {
+      "name": "HBL Engineering",
+      "price": 815
+    },
+    {
+      "name": "Premier Polyfilm",
+      "price": 96
+    }
+  ],
   "removed": [
     {
-      "name": "Vikram Thermo",
-      "price": 354
+      "name": "Shukra Pharma.",
+      "price": 71.94
     }
   ]
 }
