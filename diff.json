@@ -1,22 +1,18 @@
 {
   "added": [
     {
-      "name": "Tips Music",
-      "price": 790.45
-    },
-    {
-      "name": "HBL Engineering",
-      "price": 815
-    },
-    {
-      "name": "Premier Polyfilm",
-      "price": 96
+      "name": "Vikram Thermo",
+      "price": 360.1
     }
   ],
   "removed": [
     {
-      "name": "Shukra Pharma.",
-      "price": 71.94
+      "name": "Indo Tech.Trans.",
+      "price": 2836
+    },
+    {
+      "name": "Premier Polyfilm",
+      "price": 96
     }
   ]
 }
