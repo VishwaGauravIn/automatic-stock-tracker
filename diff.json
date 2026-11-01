@@ -1,18 +1,9 @@
 {
-  "added": [
-    {
-      "name": "Vikram Thermo",
-      "price": 360.1
-    }
-  ],
+  "added": [],
   "removed": [
     {
-      "name": "Indo Tech.Trans.",
-      "price": 2836
-    },
-    {
-      "name": "Premier Polyfilm",
-      "price": 96
+      "name": "Tips Music",
+      "price": 775
     }
   ]
 }
