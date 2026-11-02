@@ -1,9 +1,14 @@
 {
-  "added": [],
-  "removed": [
+  "added": [
     {
       "name": "Tips Music",
-      "price": 775
+      "price": 784.95
+    }
+  ],
+  "removed": [
+    {
+      "name": "Vikram Thermo",
+      "price": 360.1
     }
   ]
 }
