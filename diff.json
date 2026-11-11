@@ -1,13 +1,9 @@
 {
-  "added": [],
-  "removed": [
+  "added": [
     {
-      "name": "Tips Music",
-      "price": 785.85
-    },
-    {
-      "name": "CG Power &amp; Ind",
-      "price": 841.45
+      "name": "TD Power Systems",
+      "price": 609.65
     }
-  ]
+  ],
+  "removed": []
 }
