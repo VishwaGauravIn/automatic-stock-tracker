@@ -1,9 +1,9 @@
 {
-  "added": [
+  "added": [],
+  "removed": [
     {
-      "name": "TD Power Systems",
-      "price": 609.65
+      "name": "Vikram Thermo",
+      "price": 332
     }
-  ],
-  "removed": []
+  ]
 }
