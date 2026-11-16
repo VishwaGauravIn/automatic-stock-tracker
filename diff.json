@@ -1,9 +1,14 @@
 {
-  "added": [],
-  "removed": [
+  "added": [
     {
       "name": "C P C L",
-      "price": 1425.4
+      "price": 1424
+    }
+  ],
+  "removed": [
+    {
+      "name": "Network People",
+      "price": 1760.4
     }
   ]
 }
