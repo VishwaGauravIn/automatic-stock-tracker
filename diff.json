@@ -1,14 +1,13 @@
 {
   "added": [
     {
-      "name": "C P C L",
-      "price": 1424
-    }
-  ],
-  "removed": [
+      "name": "Vikram Thermo",
+      "price": 332.55
+    },
     {
       "name": "Network People",
-      "price": 1760.4
+      "price": 1721.4
     }
-  ]
+  ],
+  "removed": []
 }
