@@ -1,18 +1,14 @@
 {
   "added": [
     {
-      "name": "Banco Products",
-      "price": 711.35
+      "name": "Network People",
+      "price": 1692.2
     }
   ],
   "removed": [
     {
-      "name": "Vikram Thermo",
-      "price": 332.55
-    },
-    {
-      "name": "Network People",
-      "price": 1721.4
+      "name": "V-Marc India",
+      "price": 298.35
     }
   ]
 }
