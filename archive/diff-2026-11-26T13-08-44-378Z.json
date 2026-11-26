@@ -1,0 +1,14 @@
+{
+  "added": [
+    {
+      "name": "TD Power Systems",
+      "price": 616.8
+    }
+  ],
+  "removed": [
+    {
+      "name": "V-Marc India",
+      "price": 286.65
+    }
+  ]
+}
