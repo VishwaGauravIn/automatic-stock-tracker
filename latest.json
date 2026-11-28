@@ -1,58 +1,62 @@
 [
   {
     "name": "GE Vernova T&amp;D",
-    "price": 4263
+    "price": 4
   },
   {
     "name": "Multi Comm. Exc.",
-    "price": 3900
+    "price": 3
+  },
+  {
+    "name": "HBL Engineering",
+    "price": 758
   },
   {
     "name": "D.P. Abhushan",
-    "price": 1806.1
+    "price": 1
   },
   {
     "name": "Solar Industries",
-    "price": 19450
+    "price": 19
   },
   {
     "name": "Gokul Agro",
-    "price": 204.31
+    "price": 204
   },
   {
     "name": "TD Power Systems",
-    "price": 617.65
+    "price": 618
   },
   {
     "name": "Prec. Wires (I)",
-    "price": 396.9
+    "price": 397
   },
   {
     "name": "Apar Inds.",
-    "price": 14160
+    "price": 14
   },
   {
     "name": "Banco Products",
-    "price": 687.55
+    "price": 688
   },
   {
     "name": "Raghav Product.",
-    "price": 1903.7
+    "price": 1
   },
   {
     "name": "Macpower CNC",
-    "price": 2082.2
+    "price": 2
   },
   {
     "name": "Lloyds Metals",
-    "price": 1556.8
+    "price": 1
   },
   {
     "name": "Network People",
-    "price": 1772.5
+    "price": 1
   },
   {
     "name": "Knowledge Marine",
-    "price": 690.6
+    "price": 691
   }
 ]
